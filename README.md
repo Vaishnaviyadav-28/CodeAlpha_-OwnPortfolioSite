@@ -15,7 +15,7 @@ Welcome to my personal portfolio repository! This is a custom-built, fully respo
 
 * **HTML5:** Semantic structuring and accessibility.
 * **CSS3:** Custom properties (variables), Flexbox, CSS Grid, media queries, and backdrop-filter techniques for the glass effect.
-* **JavaScript (ES6+):** DOM manipulation for the mobile navigation toggle and scroll-based animation triggers.
+* **JavaScript :** DOM manipulation for the mobile navigation toggle and scroll-based animation triggers.
 * **FontAwesome:** For scalable, lightweight vector icons.
 
 ## 📁 Folder Structure
